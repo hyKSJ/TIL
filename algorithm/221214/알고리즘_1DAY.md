@@ -83,5 +83,3 @@
     ![화면 캡처 2022-12-14 111142.png](알고리즘_1DAY_assets/51b2e779f5f0b0cc460024cfb20415edaae5ff2d.png)
     
     ![화면 캡처 2022-12-14 111215.png](알고리즘_1DAY_assets/e3aec33e7e7c901df551e7f86281ea447bc98dd3.png)
-
-
